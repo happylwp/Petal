@@ -54,6 +54,6 @@
     "enzyme-adapter-react-16": "^1.12.1",
     "node-sass": "^4.11.0",
     "redux-logger": "^3.0.6",
-    "webpack-cli": "^3.3.0"
+    "webpack-cli": "3.3.1"
   }
 }
